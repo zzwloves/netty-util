@@ -7,5 +7,7 @@ package com.zzwloves.netty;
  */
 public enum ClientType {
 
-	WEBSOCKET_CLIENT;
+	WEBSOCKET_CLIENT,
+
+	HTTP_CLIENT;
 }
